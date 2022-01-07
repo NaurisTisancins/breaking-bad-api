@@ -1,4 +1,4 @@
-View on NETLIFY - loving-albattani-22f51b.netlify.app
+View on NETLIFY - https://loving-albattani-22f51b.netlify.app/
 
 ## Available Scripts
 
